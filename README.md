@@ -2,7 +2,7 @@
 - 👀 I’m interested in DS & España
 - 🌱 I’m currently learning Pandas, Text Mining and NLP
 - 💞️ I’m looking to collaborate on Machine Learning and a broader Data Science Project opportunities
-- 📫 How to reach me https://www.linkedin.com/in/rishabh-shahi-03aa72127/ | locaterishabh@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/rishabh-shahi-03aa72127/ | risabsai@gmail.com
 
 <!---
 risabsai/risabsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
